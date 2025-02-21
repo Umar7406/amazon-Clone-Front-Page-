@@ -12,7 +12,7 @@ A simple static *Amazon front page clone* built using *HTML and CSS*. This proje
 ## Installation
 1. Clone this repository:  
    sh
-   git clone https://github.com/Umar7406/amazon-clone-Front-Page.git
+   git clone https://github.com/Umar7406/amazon-clone-Front-Page-.git
    
 2. Open Projectamazonclone.html in your browser to view the page.
 
